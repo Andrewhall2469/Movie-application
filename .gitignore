@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Java
 
 # Compiled class file
@@ -95,3 +96,6 @@ local.properties
 .cache-main
 .scala_dependencies
 .worksheet
+=======
+/target/
+>>>>>>> branch 'master' of https://github.com/Andrewhall2469/Movie-application.git
